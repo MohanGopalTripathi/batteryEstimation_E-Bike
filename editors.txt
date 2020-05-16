@@ -1,9 +1,0 @@
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% editor 1 
-first name : Mohan Gopal   
-last name : Tripathi  
-Matriculation number : 390567
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% 
